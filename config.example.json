@@ -88,7 +88,7 @@
   "edge_pitch": "+15Hz",
   "enable_vision": false,
   "vision_model": "minicpm-v",
-  "memory_search_mode": "rag",
+  "memory_search_mode": "keyword",
   "autonomy_think_minutes": 5.0,
   "max_consecutive_errors": 3,
   "enable_kick": true,
